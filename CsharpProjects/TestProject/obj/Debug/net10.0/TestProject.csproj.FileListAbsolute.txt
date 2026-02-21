@@ -1,0 +1,14 @@
+D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\bin\Debug\net10.0\TestProject.exe
+D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\bin\Debug\net10.0\TestProject.deps.json
+D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\bin\Debug\net10.0\TestProject.runtimeconfig.json
+D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\bin\Debug\net10.0\TestProject.dll
+D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\bin\Debug\net10.0\TestProject.pdb
+D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.AssemblyInfoInputs.cache
+D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.AssemblyInfo.cs
+D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.csproj.CoreCompileInputs.cache
+D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.dll
+D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\obj\Debug\net10.0\refint\TestProject.dll
+D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.pdb
+D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.genruntimeconfig.cache
+D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\obj\Debug\net10.0\ref\TestProject.dll
