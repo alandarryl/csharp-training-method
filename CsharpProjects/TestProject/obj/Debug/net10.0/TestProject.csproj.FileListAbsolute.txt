@@ -12,3 +12,4 @@ D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project cert
 D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.pdb
 D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.genruntimeconfig.cache
 D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\obj\Debug\net10.0\ref\TestProject.dll
+D:\0 TRAINING\0 PROGRAMMING\PORTFOLIO PROJECT\C# training\Microsoft project certif\methode\CsharpProjects\TestProject\obj\Debug\net10.0\TestProject.sourcelink.json
